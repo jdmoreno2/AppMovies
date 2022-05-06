@@ -1,0 +1,9 @@
+.Movie-Contenido{
+  color: white;
+  text-shadow: 1px 1px 10px black;
+}
+
+.Movie-Contenido h1, .Movie-Contenido h3{
+  color: white;
+
+}
