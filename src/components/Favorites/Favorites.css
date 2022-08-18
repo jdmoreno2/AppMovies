@@ -1,0 +1,29 @@
+.favoritas{
+  margin: 2rem;
+  text-shadow: 1px 2px 15px rgb(0, 0, 0, 0.7); 
+  color: white;
+}
+
+.Alert{
+  width: 85vw;
+  margin: auto;
+  padding: 1rem;
+  border: 1px solid black ;
+  border-radius: 5px;
+  text-shadow: 1px 2px 5px rgb(255, 255, 255, 0.5); 
+  background: linear-gradient(to left, darkslategrey, lightslategray);
+}
+
+.Alert h2{
+  font-size: 30px;
+}
+
+.Alert p{
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.Alert hr{
+  background-color: white;
+  box-shadow: 0px 0px 5px black;
+}
